@@ -1,5 +1,4 @@
 <?php
-    include 'inc/inc.dbh.php';
     include 'inc/inc.ref.php';
     include 'inc/inc.header.php';
 ?>
