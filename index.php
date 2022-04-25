@@ -6,6 +6,7 @@
 <style>
   .btn-disabled {
     color: #fff !important;
+    background-color: none;
   }
   #divCanvas{
     border: 4px outset rgba(102,93,101,0.9);
